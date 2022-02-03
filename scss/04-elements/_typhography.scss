@@ -4,5 +4,5 @@ p {
     font-size: 1.6rem;
     line-height: 2.8rem;
     padding: $grid-base;
-    margin-top: 15px;
+    margin-top: $grid-base * 1.5;
 }
