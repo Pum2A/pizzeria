@@ -12,6 +12,6 @@
 
     @include large {
         max-width: 112 * $grid-base;
-        margin: 0;
+        margin: 0 auto;
     }
 }

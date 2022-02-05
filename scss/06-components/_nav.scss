@@ -3,9 +3,9 @@
 
 .nav {
 
-&__item {
-    font-size: 3.2rem;
-    @include medium {
+    &__item {
+        font-size: 3.2rem;
+        @include medium {
         display: inline-block;
         width: 23%;        
     }
